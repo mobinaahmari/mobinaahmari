@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mobina (mob)
 - 🎓 Computer Engineering Student
-- 🤖 Passionate about AI and ML
+- 🤖 Passionate about AI, ML, software, and learning
 - 💻 Programmer experienced in Java, Python, and C++
 
 
